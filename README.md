@@ -1,4 +1,4 @@
 requirejs
 =========
 
-RequireJS in node
+RequireJS in web
